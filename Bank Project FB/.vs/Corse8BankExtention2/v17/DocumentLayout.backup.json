@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed Abo-Hadhoud\\Projects\\Course8\\Corse8BankExtention2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7136C2B-03A0-4FDB-9114-903F75C429E0}|Corse8BankExtention2.vcxproj|E:\\Mohamed Abo-Hadhoud\\Projects\\Course8\\Corse8BankExtention2\\Corse8BankExtention2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7136C2B-03A0-4FDB-9114-903F75C429E0}|Corse8BankExtention2.vcxproj|solutionrelative:Corse8BankExtention2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Corse8BankExtention2.cpp",
+              "DocumentMoniker": "E:\\Mohamed Abo-Hadhoud\\Projects\\Course8\\Corse8BankExtention2\\Corse8BankExtention2.cpp",
+              "RelativeDocumentMoniker": "Corse8BankExtention2.cpp",
+              "ToolTip": "E:\\Mohamed Abo-Hadhoud\\Projects\\Course8\\Corse8BankExtention2\\Corse8BankExtention2.cpp",
+              "RelativeToolTip": "Corse8BankExtention2.cpp",
+              "ViewState": "AgIAAEICAAAAAAAAAAAWwFICAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T23:13:16.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

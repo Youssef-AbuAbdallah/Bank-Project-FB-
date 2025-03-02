@@ -1,0 +1,5 @@
+﻿  Corse8BankExtention2.cpp
+E:\Mohamed Abo-Hadhoud\Projects\Course8\Corse8BankExtention2\Corse8BankExtention2.cpp(100,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Mohamed Abo-Hadhoud\Projects\Course8\Corse8BankExtention2\Corse8BankExtention2.cpp(529,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+E:\Mohamed Abo-Hadhoud\Projects\Course8\Corse8BankExtention2\Corse8BankExtention2.cpp(1103,1): warning C4715: 'UpdateUserByUserName': not all control paths return a value
+  Corse8BankExtention2.vcxproj -> E:\Mohamed Abo-Hadhoud\Projects\Course8\Corse8BankExtention2\x64\Debug\Corse8BankExtention2.exe
